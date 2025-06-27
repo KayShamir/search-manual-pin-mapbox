@@ -17,4 +17,4 @@
    - Mapbox integration
 
    ## Chat
-   - Did this for fun and capstone feauture, made it for a short period of time. Don't bash :>
+   - Did this for fun and capstone feature, made it in a short period of time. Don't bash :>
