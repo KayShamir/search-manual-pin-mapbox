@@ -1,7 +1,7 @@
    # Searchbox + Manual Pin using Mapbox
 
    1. Clone the repo:
-      git clone https://github.com/YOUR-USERNAME/REPO-NAME](https://github.com/KayShamir/search-manual-pin-mapbox.git
+      git clone https://github.com/KayShamir/search-manual-pin-mapbox.git
 
    2. Install dependencies:
       npm install
