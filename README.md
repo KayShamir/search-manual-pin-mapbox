@@ -16,4 +16,5 @@
    - React + Vite + Tailwind CSS
    - Mapbox integration
 
-## DID THIS FOR FUN!
+   ## Chat
+   - Did this for fun and capstone feauture, made it for a short period of time. Don't bash :>
